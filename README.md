@@ -3,7 +3,7 @@
 > <h4>재밌게 살기위해 노력하는 개발자입니다.</h4> <h4>프론트를 공부해보아요</h4>
 <div style=display="flex" flex-flow:colum nowrap>
 벨로그
-<a href="https://velog.io/@dohun_08/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-thebadge&logo=velog&logoColor=white"></a>
+<a href="https://velog.io/@dohun_08/posts"><img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
 </div>
 
 <h2>💻 Stacks</h2>
@@ -14,7 +14,6 @@
 <img alt="React" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="React Native" src ="https://img.shields.io/badge/react native-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-?style=for-thebadge&logo=C&logoColor=white">
   
 </div>
 
