@@ -2,7 +2,8 @@
 
 > <h4>재밌게 살기위해 노력하는 개발자입니다.</h4> <h4>프론트를 공부해보아요</h4>
 
-<a href="https://velog.io/@dohun_08/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+밸로그
+<a href="https://velog.io/@dohun_08/posts"><img src="https://img.shields.io/badge/velog-20C997?style=for-thebadge&logo=velog&logoColor=white"></a>
 
 <h2>💻 Stacks</h2>
 <div style=display="flex">
