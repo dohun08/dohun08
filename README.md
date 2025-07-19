@@ -5,7 +5,8 @@
 
 <p>벨로그</p>
 <a href="https://velog.io/@dohun_08/posts"><img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://www.notion.so/20ce8045b91c80ff874fc651db5a1475"><img alt="notion" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.notion.so/20ce8045b91c80ff874fc651db5a1475"><img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
+
 
 <h2>💻 Stacks</h2>
 <div style=display="flex">
