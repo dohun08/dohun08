@@ -7,7 +7,6 @@
 <br/>
 <a href="https://www.notion.so/20ce8045b91c80ff874fc651db5a1475"><img alt="notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohun08&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2>💻 Stacks</h2>
@@ -22,5 +21,9 @@
 
 
 ## 🏅stats
+<div style="display:flex;">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohun08&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohun08&hide=html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
