@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20There!%20I’m%20Dohun&fontSize=40)
 
-> <h4>console.log('hello')</h4>
+<a href="https://better-fog-8d1.notion.site/20ce8045b91c80ff874fc651db5a1475?pvs=74" />포트폴리오 링크 </a>
 > <h4>프론트 공부중</h4>
 
 <a href="https://velog.io/@dohun_08/posts"><img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
