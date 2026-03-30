@@ -7,7 +7,7 @@ Frontend Developer 공부 중 🚀
 </p>
 
 <p align="center">
-<a href="https://better-fog-8d1.notion.site/20ce8045b91c80ff874fc651db5a1475?pvs=74">📂 Portfolio</a> |
+<a href="https://www.notion.so/2bde8045b91c8175b7b9eddc59077918">📂 Portfolio</a> |
 <a href="https://velog.io/@dohun_08/posts">✍️ Blog</a>
 </p>
 
