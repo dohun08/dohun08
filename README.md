@@ -7,8 +7,8 @@ Frontend Developer 공부 중 🚀
 </p>
 
 <p align="center">
-<a href="https://www.notion.so/2bde8045b91c8175b7b9eddc59077918">📂 Portfolio</a> |
-<a href="https://velog.io/@dohun_08/posts">✍️ Blog</a>
+<a href="https://www.notion.so/2bde8045b91c8175b7b9eddc59077918" target="_blank">📂 Portfolio</a> |
+<a href="https://velog.io/@dohun_08/posts" target="_blank">✍️ Blog</a>
 </p>
 
 ---
